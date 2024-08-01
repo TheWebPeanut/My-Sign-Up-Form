@@ -1,0 +1,65 @@
+body, html {
+    font-family: 'IBM Plex Serif';
+    height: 100%;
+    background-color: #C8ACD6;
+}
+
+.sign-up-box {
+    border: 2px rgb(230, 226, 187) solid;
+    border-radius: 25px;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    background-color: #433D8B;
+    color: #f2eee1;
+}
+
+.title-image {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    margin: -10px;
+}
+
+h1 {
+    display: flex;
+    font-size: 5rem;
+    color: #f2eee1;
+    padding: 100px 10px 100px 10px;
+    margin: 0px;
+    justify-content: center;
+}
+
+.text {
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.t-c {
+    font-size: x-small;
+}
+
+.sign-up {
+    font-size: 2rem;
+}
+
+button {
+    margin-top: 15px;
+    width: 100px;
+    height: 1.5rem;
+    background-color: beige;
+    border-radius: 5px;
+    color: #17153B;
+    font-weight: bold;
+}
+
+input {
+    height: 1.25rem;
+}
+
+hr {
+    width: 250px;
+    margin-top: 10px;
+}
